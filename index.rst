@@ -24,3 +24,21 @@ Friday
    friday/session_7
    friday/session_8
 
+
+Saturday
+========
+
+.. toctree::
+   :maxdepth: 2
+
+   saturday/keynote_1
+   saturday/session_1
+   saturday/session_2
+   saturday/session_3
+   saturday/session_4
+   saturday/session_5
+   saturday/session_6
+   saturday/session_7
+   saturday/session_8
+   saturday/lightning_talks
+
