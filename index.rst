@@ -42,3 +42,17 @@ Saturday
    saturday/session_8
    saturday/lightning_talks
 
+Sunday
+======
+
+.. toctree::
+   :maxdepth: 2
+
+   sunday/lightning_talks
+   sunday/keynote
+   sunday/poster_sessions
+   sunday/session_1
+   sunday/session_2
+   sunday/session_3
+   sunday/afternoon_lightning_talks
+
