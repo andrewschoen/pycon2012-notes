@@ -13,10 +13,14 @@ Friday
 .. toctree::
    :maxdepth: 2
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   friday/keynote_1
+   friday/keynote_2
+   friday/session_1
+   friday/session_2
+   friday/session_3
+   friday/session_4
+   friday/session_5
+   friday/session_6
+   friday/session_7
+   friday/session_8
 
