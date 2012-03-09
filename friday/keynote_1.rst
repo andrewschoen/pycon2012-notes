@@ -2,7 +2,7 @@ Keynote: Stormy Peters, Mozilla Corporation
 ===========================================
 
 The Challenge
---------------
++++++++++++++
 
 Everybody in this room is defining the future.  Think about how you put the user in control of the web - the average user.
 
@@ -11,7 +11,7 @@ Make a future with cool robots, not a future where companies take you're informa
 **Dancing robots!!**
 
 Agena
-------
++++++
 
 * How we can create responsible websites
 * The Growing Community
