@@ -1,12 +1,14 @@
-Coroutines, event loops, and the history of Python generators
-=============================================================
+Web Server Bottlenecks And Performance Tuning
+=============================================
 
-**Presenter:** David Mertz
+**Presenter:** Graham Dumpleton 
 
-**Track:** II
+**Track:** V 
 
 **Description:**
 
-    This talk traces lightweight concurrency from Python 2.2's generators, which enabled semi-coroutines as a mechanism for scheduling "weightless" threads; to PEP 342, which created true coroutines, and hence made event-driven programming easier; to 3rd party libraries built around coroutines, from older GTasklet and peak.events to the current Greenlet/gevent and Twisted Reactor.
+   New Python web developers seem to love running benchmarks on WSGI servers. Reality is that they often have no idea what they are doing or what to look at. This talk will look at a range of factors which can influence the performance of your Python web application. This includes the impact of using threads vs processes, number of processors, memory available, the GIL and slow HTTP clients.
 
-    https://us.pycon.org/2012/schedule/presentation/104/
+   https://us.pycon.org/2012/schedule/presentation/275/
+
+ 
