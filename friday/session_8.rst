@@ -118,5 +118,10 @@ All commits must go through code review.  Disqus uses phabricator.  phabricator.
     * there is no "right way"
 * SOA == great success
 
+Disqus deploys atleast once a day but usually around 6 times a day.
+
+Make sure schema changes can be null.  First commit make the change, second backfill data and third commit code to use schema change.
+
+
 
 
