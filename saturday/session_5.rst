@@ -1,13 +1,14 @@
-Storm: the Hadoop of Realtime Stream Processing
-===============================================
+RESTful APIs With Tastypie
+==========================
 
-**Presenter:** Gabriel Grant
+**Presenter:** Daniel Lindsley 
 
-**Track:** III
+**Track:** V 
 
 **Description:**
 
-    Twitter's new scalable, fault-tolerant, and simple(ish) stream programming system... with Python!
+   Providing full-featured REST APIs is an increasingly popular request. Tastypie allows you to easily implement a customizable REST API for your Python or Django applications.
 
-    https://us.pycon.org/2012/schedule/presentation/478/
+
+    https://us.pycon.org/2012/schedule/presentation/61/
 
