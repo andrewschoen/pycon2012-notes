@@ -29,3 +29,4 @@ Lightning Talks
     * hieroglyph - and extension for sphinx to write html5 slides with rst and sphinx
     * add an an extension to sphinx
     * this is cool, I'll be using this
+    * https://github.com/nyergler/hieroglyph
