@@ -1,12 +1,12 @@
-The Pyed Piper: A Modern Python Alternative to awk, sed and Other Unix Text Manipulation Utilities
-==================================================================================================
+Designing Embedded Systems with Linux and Python
+================================================
 
-**Presenter:** Toby Rosen
+**Presenter:** Mark Kohler
 
-**Track:** V
+**Track:** I 
 
 **Description:**
 
-    "The Pyed Piper", or pyp, is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.
+    The continual decrease in the cost of computer hardware is allowing more embedded systems to be built with Linux and Python, instead of the traditional approach of a real-time operating system and C. This talk reviews the differences between those approaches and describes problems, solutions, and tools that can be used when building embedded systems with Python.
 
-    https://us.pycon.org/2012/schedule/presentation/14/
+    https://us.pycon.org/2012/schedule/presentation/373/
