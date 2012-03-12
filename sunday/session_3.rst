@@ -101,8 +101,10 @@ An intro to python event mainly focused on women. The are maintainers of the Ope
     * iterate
 
 openhatch.org/wiki/
+
 bostonpythonworkshops.org
 
 @jessicamckellar
+
 @asheeshlaroia 
 

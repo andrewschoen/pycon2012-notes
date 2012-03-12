@@ -31,6 +31,7 @@ Saturday
 .. toctree::
    :maxdepth: 2
 
+   saturday/lightning_talks.rst
    saturday/keynote_1
    saturday/session_1
    saturday/session_2
@@ -40,7 +41,6 @@ Saturday
    saturday/session_6
    saturday/session_7
    saturday/session_8
-   saturday/lightning_talks
 
 Sunday
 ======
